@@ -1,8 +1,8 @@
 # firebase-deployement
-step 1 install node js LTS Version
-nodejs
-https://nodejs.org/en/
-step 2 install firebase 
+# step 1 install node js LTS Version
+# nodejs
+# https://nodejs.org/en/
+# step 2 install firebase 
 npm install firebase
 step 3 install firebase-tools
 npm i firebase-tools
