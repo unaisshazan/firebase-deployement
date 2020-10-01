@@ -8,7 +8,7 @@ https://youtu.be/B07yAvO585A
 # step 2 install firebase 
 # npm install firebase
 # step 3 install firebase-tools
-# npm i firebase-tools
+# npm install -g firebase-tools
 # step 4 create firebase account
 # https://firebase.google.com/
 # step 5 create project on firebase try to be unique
