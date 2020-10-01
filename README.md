@@ -1,4 +1,7 @@
 # firebase-deployement
+
+# youtube tutorial
+https://youtu.be/B07yAvO585A
 # step 1 install node js LTS Version
 # nodejs
 # https://nodejs.org/en/
